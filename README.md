@@ -7,4 +7,4 @@
 3. 权限控制简单，可以直接限制某个域名下的邮箱才有效。
 
 
-Email: mailme.xu@gmail.com
+ 
