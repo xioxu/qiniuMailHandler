@@ -1,0 +1,14 @@
+{
+    "email": "######@qq.com",
+    "username": "######@qq.com",
+    "password": "#######",
+    "imap": {
+        "host": "imap.qq.com",
+        "port": 993,
+        "secure": true
+    },
+    "smtp": {
+        "host": "smtp.qq.com",
+        "ssl": true
+    }
+}

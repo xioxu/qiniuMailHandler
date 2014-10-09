@@ -1,0 +1,9 @@
+{
+    "name": "qiniuMailHandler",
+    "version": "0.0.1",
+    "dependencies":{
+        "mail-listener2":"*",
+        "qiniu":"*",
+        "emailjs":"*"
+    }
+}
